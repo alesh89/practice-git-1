@@ -1,1 +1,3 @@
 text in file
+second line
+Москва - столица России
