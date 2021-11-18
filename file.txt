@@ -1,4 +1,2 @@
 text in file
-second line
-Москва - столица России
 Еще и Франция
